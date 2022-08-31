@@ -1,0 +1,7 @@
+*.txt
+*.zip
+*.jpg
+*.jpeg
+.env
+.vscode/
+__pycache__/
